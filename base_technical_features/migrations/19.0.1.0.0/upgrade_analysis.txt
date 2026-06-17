@@ -1,0 +1,4 @@
+---Models in module 'base_technical_features'---
+---Fields in module 'base_technical_features'---
+---XML records in module 'base_technical_features'---
+NEW ir.ui.view: base_technical_features.view_users_form

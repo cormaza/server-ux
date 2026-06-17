@@ -1,0 +1,5 @@
+---Models in module 'server_action_mass_edit'---
+---Fields in module 'server_action_mass_edit'---
+server_action_mass_edit / ir.actions.server        / state (False)                 : selection_keys added: [object_copy] (most likely nothing to do)
+server_action_mass_edit / ir.actions.server.mass.edit.line / field_domain (char)           : NEW
+---XML records in module 'server_action_mass_edit'---
