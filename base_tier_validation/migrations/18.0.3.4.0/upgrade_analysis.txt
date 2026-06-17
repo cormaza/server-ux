@@ -1,0 +1,5 @@
+---Models in module 'base_tier_validation'---
+---Fields in module 'base_tier_validation'---
+base_tier_validation / tier.review              / _order                        : _order is now 'sequence, id' ('id')
+base_tier_validation / tier.review              / status (selection)            : selection_keys added: [cancel] (most likely nothing to do)
+---XML records in module 'base_tier_validation'---

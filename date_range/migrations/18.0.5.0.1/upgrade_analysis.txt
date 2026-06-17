@@ -1,0 +1,7 @@
+---Models in module 'date_range'---
+---Fields in module 'date_range'---
+---XML records in module 'date_range'---
+NEW ir.ui.view: date_range.view_date_range_list
+NEW ir.ui.view: date_range.view_date_range_type_list
+DEL ir.ui.view: date_range.view_date_range_tree
+DEL ir.ui.view: date_range.view_date_range_type_tree
